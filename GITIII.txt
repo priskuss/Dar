@@ -1,0 +1,4 @@
+Assignment GIT III:
+1. Create a local folder and turn it in too a repo.
+2. Make changes and commit to the local repo.
+3. Publish your local repo to github (remember to make it public).
